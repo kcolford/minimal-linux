@@ -1,0 +1,15 @@
+[submodule "linux"]
+	   url = git@github.com:torvalds/linux.git
+	   path = linux
+
+[submodule "bash"]
+	   url = git://git.savannah.gnu.org/bash.git
+	   path = bash
+
+[submodule "libc"]
+	   url = git://sourceware.org/git/glibc.git
+	   path = libc
+
+[submodule "coreutils"]
+	   url = git://git.savannah.gnu.org/coreutils.git
+	   path = coreutils
